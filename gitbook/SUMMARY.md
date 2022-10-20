@@ -38,8 +38,8 @@
         * [info](git/objects/info/README.md)
 
         * [pack](git/objects/pack/README.md)
-            * [pack-9d97a268ceb8da5cd5d944cdb060d44848d8474a.idx](git/objects/pack/pack9d97a268ceb8da5cd5d944cdb060d44848d8474a.idx)
-            * [pack-9d97a268ceb8da5cd5d944cdb060d44848d8474a.pack](git/objects/pack/pack9d97a268ceb8da5cd5d944cdb060d44848d8474a.pack)
+            * [pack-fed783aa327b95dc9c59368ba1ab1facd40891fd.idx](git/objects/pack/packfed783aa327b95dc9c59368ba1ab1facd40891fd.idx)
+            * [pack-fed783aa327b95dc9c59368ba1ab1facd40891fd.pack](git/objects/pack/packfed783aa327b95dc9c59368ba1ab1facd40891fd.pack)
 
 
     * [refs](git/refs/README.md)
@@ -170,7 +170,7 @@
         * [GUI](diseo-visual/gui/gui.md)
 
     * [Layout](diseo-visual/layout/README.md)
-        * [Grid](diseo-visual/layout/grid.md)
+        * [Rejilla (Grid)](diseo-visual/layout/rejilla-grid.md)
 
     * [Marca](diseo-visual/marca/README.md)
         * [Diseño de líneas visuales](diseo-visual/marca/diseo-de-lneas-visuales.md)
@@ -185,12 +185,15 @@
             * [kerning](diseo-visual/tipografia/glosario/kerning.md)
             * [lead](diseo-visual/tipografia/glosario/lead.md)
 
+        * [Alto de línea (line height)](diseo-visual/tipografia/alto-de-lnea-line-height.md)
         * [Parejas de tipografías](diseo-visual/tipografia/parejas-de-tipografas.md)
+        * [The ideal line length & line height in web design](diseo-visual/tipografia/the-ideal-line-length-line-height-in-web-design.md)
         * [Tipografia](diseo-visual/tipografia/tipografia.md)
 
     * [Visualización de datos](diseo-visual/visualizacin-de-datos/README.md)
         * [Visualización de datos](diseo-visual/visualizacin-de-datos/visualizacin-de-datos.md)
 
+    * [Alineamiento óptico (eyeballing, optical alignment)](diseo-visual/alineamiento-ptico-eyeballing-optical-alignment.md)
 
 * [Herramientas](herramientas/README.md)
     * [Gestores de contenido (CMS)](herramientas/gestores-de-contenido-cms/README.md)
