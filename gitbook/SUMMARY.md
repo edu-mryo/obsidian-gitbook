@@ -38,8 +38,8 @@
         * [info](git/objects/info/README.md)
 
         * [pack](git/objects/pack/README.md)
-            * [pack-fed783aa327b95dc9c59368ba1ab1facd40891fd.idx](git/objects/pack/packfed783aa327b95dc9c59368ba1ab1facd40891fd.idx)
-            * [pack-fed783aa327b95dc9c59368ba1ab1facd40891fd.pack](git/objects/pack/packfed783aa327b95dc9c59368ba1ab1facd40891fd.pack)
+            * [pack-8ab0dae442ec88020852336d33424d44e579468f.idx](git/objects/pack/pack8ab0dae442ec88020852336d33424d44e579468f.idx)
+            * [pack-8ab0dae442ec88020852336d33424d44e579468f.pack](git/objects/pack/pack8ab0dae442ec88020852336d33424d44e579468f.pack)
 
 
     * [refs](git/refs/README.md)
@@ -163,6 +163,7 @@
 * [Diseño visual](diseo-visual/README.md)
     * [Color](diseo-visual/color/README.md)
         * [Color blindness](diseo-visual/color/color-blindness.md)
+        * [Psicología del color](diseo-visual/color/psicologa-del-color.md)
         * [Teoría del color](diseo-visual/color/teora-del-color.md)
 
     * [GUI](diseo-visual/gui/README.md)
@@ -191,6 +192,7 @@
         * [Tipografia](diseo-visual/tipografia/tipografia.md)
 
     * [Visualización de datos](diseo-visual/visualizacin-de-datos/README.md)
+        * [Glosario](diseo-visual/visualizacin-de-datos/glosario.md)
         * [Visualización de datos](diseo-visual/visualizacin-de-datos/visualizacin-de-datos.md)
 
     * [Alineamiento óptico (eyeballing, optical alignment)](diseo-visual/alineamiento-ptico-eyeballing-optical-alignment.md)
