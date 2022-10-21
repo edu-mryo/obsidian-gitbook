@@ -38,8 +38,8 @@
         * [info](git/objects/info/README.md)
 
         * [pack](git/objects/pack/README.md)
-            * [pack-8ab0dae442ec88020852336d33424d44e579468f.idx](git/objects/pack/pack8ab0dae442ec88020852336d33424d44e579468f.idx)
-            * [pack-8ab0dae442ec88020852336d33424d44e579468f.pack](git/objects/pack/pack8ab0dae442ec88020852336d33424d44e579468f.pack)
+            * [pack-c1e919d601520d05d80e314dafce66d43ccecfa6.idx](git/objects/pack/packc1e919d601520d05d80e314dafce66d43ccecfa6.idx)
+            * [pack-c1e919d601520d05d80e314dafce66d43ccecfa6.pack](git/objects/pack/packc1e919d601520d05d80e314dafce66d43ccecfa6.pack)
 
 
     * [refs](git/refs/README.md)
@@ -131,29 +131,29 @@
     * [Los 5 por qué](diseo-de-estrategia/los-5-por-qu.md)
     * [Usuarios extremos](diseo-de-estrategia/usuarios-extremos.md)
 
-* [Diseño de experiencia (UX)](diseo-de-experiencia-ux/README.md)
-    * [Facilitación](diseo-de-experiencia-ux/facilitacin/README.md)
-        * [Bodystorming](diseo-de-experiencia-ux/facilitacin/bodystorming.md)
-        * [Brainstorming](diseo-de-experiencia-ux/facilitacin/brainstorming.md)
-        * [Provocación](diseo-de-experiencia-ux/facilitacin/provocacin.md)
-        * [SCAMPER](diseo-de-experiencia-ux/facilitacin/scamper.md)
-        * [Six thinking hats](diseo-de-experiencia-ux/facilitacin/six-thinking-hats.md)
+* [Diseño de experiencia (UX y CX)](diseo-de-experiencia-ux-y-cx/README.md)
+    * [Heurísticas](diseo-de-experiencia-ux-y-cx/heursticas/README.md)
+        * [Evaluación heurística](diseo-de-experiencia-ux-y-cx/heursticas/evaluacin-heurstica.md)
+        * [Heurísticas](diseo-de-experiencia-ux-y-cx/heursticas/heursticas.md)
+        * [Las 10 heurísticas de Nielsen](diseo-de-experiencia-ux-y-cx/heursticas/las-10-heursticas-de-nielsen.md)
+        * [Reglas de oro de Shneiderman](diseo-de-experiencia-ux-y-cx/heursticas/reglas-de-oro-de-shneiderman.md)
 
-    * [Heurísticas](diseo-de-experiencia-ux/heursticas/README.md)
-        * [Evaluación heurística](diseo-de-experiencia-ux/heursticas/evaluacin-heurstica.md)
-        * [Heurísticas](diseo-de-experiencia-ux/heursticas/heursticas.md)
-        * [Las 10 heurísticas de Nielsen](diseo-de-experiencia-ux/heursticas/las-10-heursticas-de-nielsen.md)
-        * [Reglas de oro de Shneiderman](diseo-de-experiencia-ux/heursticas/reglas-de-oro-de-shneiderman.md)
+    * [Optimización de la Tasa de Conversión (CRO)](diseo-de-experiencia-ux-y-cx/optimizacin-de-la-tasa-de-conversin-cro/README.md)
+        * [Optimización de la Tasa de Conversión (CRO)](diseo-de-experiencia-ux-y-cx/optimizacin-de-la-tasa-de-conversin-cro/optimizacin-de-la-tasa-de-conversin-cro.md)
+        * [Recencia (recency)](diseo-de-experiencia-ux-y-cx/optimizacin-de-la-tasa-de-conversin-cro/recencia-recency.md)
 
-    * [00 - Diseño de experiencia (UX Design)](diseo-de-experiencia-ux/00-diseo-de-experiencia-ux-design.md)
-    * [Disciplinas de UX](diseo-de-experiencia-ux/disciplinas-de-ux.md)
-    * [Experiencia del cliente (Customer Experience o CX)](diseo-de-experiencia-ux/experiencia-del-cliente-customer-experience-o-cx.md)
-    * [Flujo (User Flow)](diseo-de-experiencia-ux/flujo-user-flow.md)
-    * [Ideación](diseo-de-experiencia-ux/ideacin.md)
+    * [Disciplinas de UX](diseo-de-experiencia-ux-y-cx/disciplinas-de-ux.md)
+    * [Diseño de experiencia (UX Design)](diseo-de-experiencia-ux-y-cx/diseo-de-experiencia-ux-design.md)
+    * [Experiencia del cliente (Customer Experience o CX)](diseo-de-experiencia-ux-y-cx/experiencia-del-cliente-customer-experience-o-cx.md)
+    * [Flujo (User Flow)](diseo-de-experiencia-ux-y-cx/flujo-user-flow.md)
+    * [Ideación](diseo-de-experiencia-ux-y-cx/ideacin.md)
 
 * [Diseño de interacción (IxD)](diseo-de-interaccin-ixd/README.md)
     * [Diseño de interacción (IxD)](diseo-de-interaccin-ixd/diseo-de-interaccin-ixd.md)
     * [Interfaz](diseo-de-interaccin-ixd/interfaz.md)
+
+* [Diseño de juegos](diseo-de-juegos/README.md)
+    * [Diseño de juegos](diseo-de-juegos/diseo-de-juegos.md)
 
 * [Diseño de servicios](diseo-de-servicios/README.md)
     * [00 - Diseño de servicios](diseo-de-servicios/00-diseo-de-servicios.md)
@@ -168,13 +168,17 @@
 
     * [GUI](diseo-visual/gui/README.md)
         * [10-foot UI](diseo-visual/gui/10foot-ui.md)
-        * [GUI](diseo-visual/gui/gui.md)
+        * [GUI (graphical user interface o interfaz gráfica de usuario)](diseo-visual/gui/gui-graphical-user-interface-o-interfaz-grfica-de-usuario.md)
+
+    * [Iconografía](diseo-visual/iconografa/README.md)
+        * [A complete guide to iconography](diseo-visual/iconografa/a-complete-guide-to-iconography.md)
+
+    * [Identidad y marca](diseo-visual/identidad-y-marca/README.md)
+        * [Diseño de líneas visuales](diseo-visual/identidad-y-marca/diseo-de-lneas-visuales.md)
 
     * [Layout](diseo-visual/layout/README.md)
+        * [Diagrama de Gutenberg (Gutenberg Diagram)](diseo-visual/layout/diagrama-de-gutenberg-gutenberg-diagram.md)
         * [Rejilla (Grid)](diseo-visual/layout/rejilla-grid.md)
-
-    * [Marca](diseo-visual/marca/README.md)
-        * [Diseño de líneas visuales](diseo-visual/marca/diseo-de-lneas-visuales.md)
 
     * [Principios de diseño](diseo-visual/principios-de-diseo/README.md)
         * [Principios de diseño](diseo-visual/principios-de-diseo/principios-de-diseo.md)
@@ -196,8 +200,24 @@
         * [Visualización de datos](diseo-visual/visualizacin-de-datos/visualizacin-de-datos.md)
 
     * [Alineamiento óptico (eyeballing, optical alignment)](diseo-visual/alineamiento-ptico-eyeballing-optical-alignment.md)
+    * [Calculadora de proporción áurea (golden ratio calculator)](diseo-visual/calculadora-de-proporcin-urea-golden-ratio-calculator.md)
+    * [Calculadora de relación de aspecto (aspect ratio calculator)](diseo-visual/calculadora-de-relacin-de-aspecto-aspect-ratio-calculator.md)
+    * [Proporción áurea (Golden ratio)](diseo-visual/proporcin-urea-golden-ratio.md)
+    * [Relación de aspecto (aspect ratio)](diseo-visual/relacin-de-aspecto-aspect-ratio.md)
+
+* [Facilitación](facilitacin/README.md)
+    * [Bodystorming](facilitacin/bodystorming.md)
+    * [Brainstorming](facilitacin/brainstorming.md)
+    * [Facilitación](facilitacin/facilitacin.md)
+    * [Provocación](facilitacin/provocacin.md)
+    * [SCAMPER](facilitacin/scamper.md)
+    * [Six thinking hats](facilitacin/six-thinking-hats.md)
 
 * [Herramientas](herramientas/README.md)
+    * [3D](herramientas/3d/README.md)
+        * [Blender](herramientas/3d/blender.md)
+        * [Unity](herramientas/3d/unity.md)
+
     * [Gestores de contenido (CMS)](herramientas/gestores-de-contenido-cms/README.md)
         * [WordPress](herramientas/gestores-de-contenido-cms/wordpress/README.md)
             * [WP_Duplicator](herramientas/gestores-de-contenido-cms/wordpress/wpduplicator.md)
@@ -223,12 +243,19 @@
         * [VSCode](herramientas/herramientas-de-desarrollo/vscode.md)
 
     * [Herramientas de diseño](herramientas/herramientas-de-diseo/README.md)
+        * [Color](herramientas/herramientas-de-diseo/color/README.md)
+            * [Coolors](herramientas/herramientas-de-diseo/color/coolors.md)
+            * [Extractores de color](herramientas/herramientas-de-diseo/color/extractores-de-color.md)
+            * [Generadores de gradientes](herramientas/herramientas-de-diseo/color/generadores-de-gradientes.md)
+
+        * [Diseño y prototipado](herramientas/herramientas-de-diseo/diseo-y-prototipado/README.md)
+            * [Adobe XD](herramientas/herramientas-de-diseo/diseo-y-prototipado/adobe-xd.md)
+            * [Figma](herramientas/herramientas-de-diseo/diseo-y-prototipado/figma.md)
+            * [Sketch](herramientas/herramientas-de-diseo/diseo-y-prototipado/sketch.md)
+
         * [Abstract](herramientas/herramientas-de-diseo/abstract.md)
-        * [Adobe XD](herramientas/herramientas-de-diseo/adobe-xd.md)
         * [Balsamiq](herramientas/herramientas-de-diseo/balsamiq.md)
-        * [Figma](herramientas/herramientas-de-diseo/figma.md)
         * [InVision](herramientas/herramientas-de-diseo/invision.md)
-        * [Sketch](herramientas/herramientas-de-diseo/sketch.md)
         * [Zeplin](herramientas/herramientas-de-diseo/zeplin.md)
 
     * [Herramientas de mapeado](herramientas/herramientas-de-mapeado/README.md)
@@ -245,7 +272,6 @@
         * [Moodboard](herramientas/herramientas-de-mapeado/moodboard.md)
         * [Viaje del usuario (User Journey)](herramientas/herramientas-de-mapeado/viaje-del-usuario-user-journey.md)
 
-    * [Unity](herramientas/unity.md)
 
 * [Investigación para el diseño](investigacin-para-el-diseo/README.md)
     * [Tipos de investigación](investigacin-para-el-diseo/tipos-de-investigacin/README.md)
@@ -297,11 +323,11 @@
     * [Unidades de medida (px, dp...)](miscelnea/unidades-de-medida-px-dp....md)
     * [XPLANE](miscelnea/xplane.md)
 
-* [Organización](organizacin/README.md)
-    * [Gobierno](organizacin/gobierno.md)
-    * [Guías](organizacin/guas.md)
-    * [Problemas conocidos](organizacin/problemas-conocidos.md)
-    * [Tutoriales](organizacin/tutoriales.md)
+* [Organización del repositorio](organizacin-del-repositorio/README.md)
+    * [Gobierno](organizacin-del-repositorio/gobierno.md)
+    * [Guías](organizacin-del-repositorio/guas.md)
+    * [Problemas conocidos](organizacin-del-repositorio/problemas-conocidos.md)
+    * [Tutoriales](organizacin-del-repositorio/tutoriales.md)
 
 * [Product Management](product-management/README.md)
     * [PMI (Product Management Institute)](product-management/pmi-product-management-institute.md)
@@ -365,7 +391,14 @@
     * [checklist_revision_heuristica_metodo_sirius_v3.xlsx](recursos/checklistrevisionheuristicametodosiriusv3.xlsx)
 
 * [Sistemas de diseño](sistemas-de-diseo/README.md)
+    * [Componentes](sistemas-de-diseo/componentes/README.md)
+        * [Tablas](sistemas-de-diseo/componentes/tablas.md)
+
+    * [Herramientas](sistemas-de-diseo/herramientas/README.md)
+        * [zeroheight](sistemas-de-diseo/herramientas/zeroheight.md)
+
     * [Design Token](sistemas-de-diseo/design-token.md)
+    * [Sistemas de diseño](sistemas-de-diseo/sistemas-de-diseo.md)
 
 * [.gitattributes](.gitattributes)
 * [.gitignore](.gitignore)
