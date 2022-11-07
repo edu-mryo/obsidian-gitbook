@@ -38,8 +38,8 @@
         * [info](git/objects/info/README.md)
 
         * [pack](git/objects/pack/README.md)
-            * [pack-c1e919d601520d05d80e314dafce66d43ccecfa6.idx](git/objects/pack/packc1e919d601520d05d80e314dafce66d43ccecfa6.idx)
-            * [pack-c1e919d601520d05d80e314dafce66d43ccecfa6.pack](git/objects/pack/packc1e919d601520d05d80e314dafce66d43ccecfa6.pack)
+            * [pack-75bc879ddb66e69547dfcb55f15edabc2179fcd2.idx](git/objects/pack/pack75bc879ddb66e69547dfcb55f15edabc2179fcd2.idx)
+            * [pack-75bc879ddb66e69547dfcb55f15edabc2179fcd2.pack](git/objects/pack/pack75bc879ddb66e69547dfcb55f15edabc2179fcd2.pack)
 
 
     * [refs](git/refs/README.md)
@@ -65,6 +65,16 @@
     * [workflows](github/workflows/README.md)
         * [build-gitbook.yml](github/workflows/buildgitbook.yml)
 
+
+* [00_Empieza aquí](00empieza-aqu/README.md)
+    * [Organización del repositorio](00empieza-aqu/organizacin-del-repositorio/README.md)
+        * [Gobierno](00empieza-aqu/organizacin-del-repositorio/gobierno.md)
+        * [Guías](00empieza-aqu/organizacin-del-repositorio/guas.md)
+        * [Problemas conocidos](00empieza-aqu/organizacin-del-repositorio/problemas-conocidos.md)
+        * [Tutoriales](00empieza-aqu/organizacin-del-repositorio/tutoriales.md)
+
+    * [00_Empieza aquí](00empieza-aqu/00empieza-aqu.md)
+    * [Roadmap](00empieza-aqu/roadmap.md)
 
 * [Desarrollo para diseñadoras](desarrollo-para-diseadoras/README.md)
     * [Frameworks](desarrollo-para-diseadoras/frameworks/README.md)
@@ -141,6 +151,10 @@
     * [Optimización de la Tasa de Conversión (CRO)](diseo-de-experiencia-ux-y-cx/optimizacin-de-la-tasa-de-conversin-cro/README.md)
         * [Optimización de la Tasa de Conversión (CRO)](diseo-de-experiencia-ux-y-cx/optimizacin-de-la-tasa-de-conversin-cro/optimizacin-de-la-tasa-de-conversin-cro.md)
         * [Recencia (recency)](diseo-de-experiencia-ux-y-cx/optimizacin-de-la-tasa-de-conversin-cro/recencia-recency.md)
+
+    * [Patrones](diseo-de-experiencia-ux-y-cx/patrones/README.md)
+        * [Drill-in](diseo-de-experiencia-ux-y-cx/patrones/drillin.md)
+        * [Patrones de UX](diseo-de-experiencia-ux-y-cx/patrones/patrones-de-ux.md)
 
     * [Disciplinas de UX](diseo-de-experiencia-ux-y-cx/disciplinas-de-ux.md)
     * [Diseño de experiencia (UX Design)](diseo-de-experiencia-ux-y-cx/diseo-de-experiencia-ux-design.md)
@@ -294,6 +308,7 @@
         * [Test A-B](investigacin-para-el-diseo/tcnicas-de-investigacin/test-ab.md)
 
     * [00 - Investigacion para el diseño](investigacin-para-el-diseo/00-investigacion-para-el-diseo.md)
+    * [A Design Research Framework](investigacin-para-el-diseo/a-design-research-framework.md)
     * [Triangulación de datos](investigacin-para-el-diseo/triangulacin-de-datos.md)
 
 * [Metodologías de trabajo](metodologas-de-trabajo/README.md)
@@ -315,6 +330,7 @@
     * [Gestalt](miscelnea/gestalt.md)
     * [Imagen](miscelnea/imagen.md)
     * [Los 14 Puntos sobre Calidad de Edwards Deming](miscelnea/los-14-puntos-sobre-calidad-de-edwards-deming.md)
+    * [Pedir permisos (buenas prácticas)](miscelnea/pedir-permisos-buenas-prcticas.md)
     * [Product-Led Growth (PLG)](miscelnea/productled-growth-plg.md)
     * [Software Design Document](miscelnea/software-design-document.md)
     * [Software Development Life Cycle](miscelnea/software-development-life-cycle.md)
@@ -322,12 +338,6 @@
     * [Unidades Discretas Digitales](miscelnea/unidades-discretas-digitales.md)
     * [Unidades de medida (px, dp...)](miscelnea/unidades-de-medida-px-dp....md)
     * [XPLANE](miscelnea/xplane.md)
-
-* [Organización del repositorio](organizacin-del-repositorio/README.md)
-    * [Gobierno](organizacin-del-repositorio/gobierno.md)
-    * [Guías](organizacin-del-repositorio/guas.md)
-    * [Problemas conocidos](organizacin-del-repositorio/problemas-conocidos.md)
-    * [Tutoriales](organizacin-del-repositorio/tutoriales.md)
 
 * [Product Management](product-management/README.md)
     * [PMI (Product Management Institute)](product-management/pmi-product-management-institute.md)
@@ -390,6 +400,9 @@
 
     * [checklist_revision_heuristica_metodo_sirius_v3.xlsx](recursos/checklistrevisionheuristicametodosiriusv3.xlsx)
 
+* [Roles](roles/README.md)
+    * [Roles](roles/roles.md)
+
 * [Sistemas de diseño](sistemas-de-diseo/README.md)
     * [Componentes](sistemas-de-diseo/componentes/README.md)
         * [Tablas](sistemas-de-diseo/componentes/tablas.md)
@@ -404,6 +417,11 @@
 * [.gitignore](.gitignore)
 * [.vault-stats 2](.vaultstats-2)
 * [.vault-stats 3](.vaultstats-3)
-* [Empieza aquí](empieza-aqu.md)
+* [8F04E803-4AD5-426A-A1B4-4D6340EEBC81.jpeg](8f04e8034ad5426aa1b44d6340eebc81.jpeg)
+* [A299D87C-74B5-417F-A6AE-3E1A719B27D3.png](a299d87c74b5417fa6ae3e1a719b27d3.png)
+* [Elementos de la experiencia del usuario (Elements of User Experience)](elementos-de-la-experiencia-del-usuario-elements-of-user-experience.md)
 * [LICENSE](license)
+* [Ley de Fitt](ley-de-fitt.md)
+* [Leyes de UX (Laws of UX)](leyes-de-ux-laws-of-ux.md)
+* [Principal Designer](principal-designer.md)
 * [README](readme.md)
