@@ -38,8 +38,8 @@
         * [info](git/objects/info/README.md)
 
         * [pack](git/objects/pack/README.md)
-            * [pack-75bc879ddb66e69547dfcb55f15edabc2179fcd2.idx](git/objects/pack/pack75bc879ddb66e69547dfcb55f15edabc2179fcd2.idx)
-            * [pack-75bc879ddb66e69547dfcb55f15edabc2179fcd2.pack](git/objects/pack/pack75bc879ddb66e69547dfcb55f15edabc2179fcd2.pack)
+            * [pack-64ff608ac03999e0bff87f3ed4486f06e5b95d55.idx](git/objects/pack/pack64ff608ac03999e0bff87f3ed4486f06e5b95d55.idx)
+            * [pack-64ff608ac03999e0bff87f3ed4486f06e5b95d55.pack](git/objects/pack/pack64ff608ac03999e0bff87f3ed4486f06e5b95d55.pack)
 
 
     * [refs](git/refs/README.md)
@@ -68,6 +68,10 @@
 
 * [00_Empieza aquí](00empieza-aqu/README.md)
     * [Organización del repositorio](00empieza-aqu/organizacin-del-repositorio/README.md)
+        * [Media](00empieza-aqu/organizacin-del-repositorio/media/README.md)
+            * [8F04E803-4AD5-426A-A1B4-4D6340EEBC81.jpeg](00empieza-aqu/organizacin-del-repositorio/media/8f04e8034ad5426aa1b44d6340eebc81.jpeg)
+            * [A299D87C-74B5-417F-A6AE-3E1A719B27D3.png](00empieza-aqu/organizacin-del-repositorio/media/a299d87c74b5417fa6ae3e1a719b27d3.png)
+
         * [Gobierno](00empieza-aqu/organizacin-del-repositorio/gobierno.md)
         * [Guías](00empieza-aqu/organizacin-del-repositorio/guas.md)
         * [Problemas conocidos](00empieza-aqu/organizacin-del-repositorio/problemas-conocidos.md)
@@ -75,6 +79,11 @@
 
     * [00_Empieza aquí](00empieza-aqu/00empieza-aqu.md)
     * [Roadmap](00empieza-aqu/roadmap.md)
+
+* [Accesibilidad (a11y)](accesibilidad-a11y/README.md)
+    * [Accesibilidad (a11y)](accesibilidad-a11y/accesibilidad-a11y.md)
+    * [Accesibilidad web](accesibilidad-a11y/accesibilidad-web.md)
+    * [Auditoría de accesibilidad](accesibilidad-a11y/auditora-de-accesibilidad.md)
 
 * [Desarrollo para diseñadoras](desarrollo-para-diseadoras/README.md)
     * [Frameworks](desarrollo-para-diseadoras/frameworks/README.md)
@@ -156,15 +165,18 @@
         * [Drill-in](diseo-de-experiencia-ux-y-cx/patrones/drillin.md)
         * [Patrones de UX](diseo-de-experiencia-ux-y-cx/patrones/patrones-de-ux.md)
 
+    * [Amélie Boucher’s Ergonomic Criteria](diseo-de-experiencia-ux-y-cx/amlie-bouchers-ergonomic-criteria.md)
     * [Disciplinas de UX](diseo-de-experiencia-ux-y-cx/disciplinas-de-ux.md)
     * [Diseño de experiencia (UX Design)](diseo-de-experiencia-ux-y-cx/diseo-de-experiencia-ux-design.md)
     * [Experiencia del cliente (Customer Experience o CX)](diseo-de-experiencia-ux-y-cx/experiencia-del-cliente-customer-experience-o-cx.md)
     * [Flujo (User Flow)](diseo-de-experiencia-ux-y-cx/flujo-user-flow.md)
     * [Ideación](diseo-de-experiencia-ux-y-cx/ideacin.md)
+    * [Leyes de UX (Laws of UX)](diseo-de-experiencia-ux-y-cx/leyes-de-ux-laws-of-ux.md)
 
 * [Diseño de interacción (IxD)](diseo-de-interaccin-ixd/README.md)
     * [Diseño de interacción (IxD)](diseo-de-interaccin-ixd/diseo-de-interaccin-ixd.md)
     * [Interfaz](diseo-de-interaccin-ixd/interfaz.md)
+    * [VUI (Voice User Interface o Interfaz de Usuario de Voz)](diseo-de-interaccin-ixd/vui-voice-user-interface-o-interfaz-de-usuario-de-voz.md)
 
 * [Diseño de juegos](diseo-de-juegos/README.md)
     * [Diseño de juegos](diseo-de-juegos/diseo-de-juegos.md)
@@ -176,7 +188,7 @@
 
 * [Diseño visual](diseo-visual/README.md)
     * [Color](diseo-visual/color/README.md)
-        * [Color blindness](diseo-visual/color/color-blindness.md)
+        * [Color blindness ()](diseo-visual/color/color-blindness-.md)
         * [Psicología del color](diseo-visual/color/psicologa-del-color.md)
         * [Teoría del color](diseo-visual/color/teora-del-color.md)
 
@@ -289,26 +301,32 @@
 
 * [Investigación para el diseño](investigacin-para-el-diseo/README.md)
     * [Tipos de investigación](investigacin-para-el-diseo/tipos-de-investigacin/README.md)
+        * [00_Tipos de investigación](investigacin-para-el-diseo/tipos-de-investigacin/00tipos-de-investigacin.md)
+        * [Evaluative Research - Definition, Methods, and Types](investigacin-para-el-diseo/tipos-de-investigacin/evaluative-research-definition-methods-and-types.md)
         * [Investigación cualitativa](investigacin-para-el-diseo/tipos-de-investigacin/investigacin-cualitativa.md)
         * [Investigación cuantitativa](investigacin-para-el-diseo/tipos-de-investigacin/investigacin-cuantitativa.md)
         * [Investigación evaluativa](investigacin-para-el-diseo/tipos-de-investigacin/investigacin-evaluativa.md)
         * [Investigación generativa](investigacin-para-el-diseo/tipos-de-investigacin/investigacin-generativa.md)
-        * [Tipos de investigación](investigacin-para-el-diseo/tipos-de-investigacin/tipos-de-investigacin.md)
 
     * [Técnicas de investigación](investigacin-para-el-diseo/tcnicas-de-investigacin/README.md)
+        * [00_Técnicas de investigación](investigacin-para-el-diseo/tcnicas-de-investigacin/00tcnicas-de-investigacin.md)
+        * [Card Sorting](investigacin-para-el-diseo/tcnicas-de-investigacin/card-sorting.md)
         * [Cognitive walkthroughs](investigacin-para-el-diseo/tcnicas-de-investigacin/cognitive-walkthroughs.md)
+        * [Encuestas](investigacin-para-el-diseo/tcnicas-de-investigacin/encuestas.md)
         * [Entrevistas de usuario](investigacin-para-el-diseo/tcnicas-de-investigacin/entrevistas-de-usuario.md)
+        * [Estudios de campo](investigacin-para-el-diseo/tcnicas-de-investigacin/estudios-de-campo.md)
         * [Eye tracking](investigacin-para-el-diseo/tcnicas-de-investigacin/eye-tracking.md)
         * [Focus group](investigacin-para-el-diseo/tcnicas-de-investigacin/focus-group.md)
         * [Inspección de usabilidad](investigacin-para-el-diseo/tcnicas-de-investigacin/inspeccin-de-usabilidad.md)
         * [NPS (Net Promoter Score)](investigacin-para-el-diseo/tcnicas-de-investigacin/nps-net-promoter-score.md)
         * [Personas](investigacin-para-el-diseo/tcnicas-de-investigacin/personas.md)
-        * [Satisfacción del cliente o *customer satisfaction*](investigacin-para-el-diseo/tcnicas-de-investigacin/satisfaccin-del-cliente-o-customer-satisfaction.md)
+        * [Satisfacción del cliente (customer satisfaction)](investigacin-para-el-diseo/tcnicas-de-investigacin/satisfaccin-del-cliente-customer-satisfaction.md)
         * [Sirius](investigacin-para-el-diseo/tcnicas-de-investigacin/sirius.md)
         * [Test A-B](investigacin-para-el-diseo/tcnicas-de-investigacin/test-ab.md)
 
     * [00 - Investigacion para el diseño](investigacin-para-el-diseo/00-investigacion-para-el-diseo.md)
     * [A Design Research Framework](investigacin-para-el-diseo/a-design-research-framework.md)
+    * [How to Establish a UX Research Process in 7 Simple Steps](investigacin-para-el-diseo/how-to-establish-a-ux-research-process-in-7-simple-steps.md)
     * [Triangulación de datos](investigacin-para-el-diseo/triangulacin-de-datos.md)
 
 * [Metodologías de trabajo](metodologas-de-trabajo/README.md)
@@ -325,13 +343,17 @@
     * [Scrum](metodologas-de-trabajo/scrum.md)
 
 * [Miscelánea](miscelnea/README.md)
+    * [Cómo lee la gente (en la web)](miscelnea/cmo-lee-la-gente-en-la-web.md)
     * [Densidad de píxeles](miscelnea/densidad-de-pxeles.md)
     * [Dónde obtener recursos](miscelnea/dnde-obtener-recursos.md)
     * [Gestalt](miscelnea/gestalt.md)
     * [Imagen](miscelnea/imagen.md)
+    * [Ley de Fitt](miscelnea/ley-de-fitt.md)
+    * [Ley de Jakob](miscelnea/ley-de-jakob.md)
     * [Los 14 Puntos sobre Calidad de Edwards Deming](miscelnea/los-14-puntos-sobre-calidad-de-edwards-deming.md)
     * [Pedir permisos (buenas prácticas)](miscelnea/pedir-permisos-buenas-prcticas.md)
     * [Product-Led Growth (PLG)](miscelnea/productled-growth-plg.md)
+    * [Puntos de dolor (pain points)](miscelnea/puntos-de-dolor-pain-points.md)
     * [Software Design Document](miscelnea/software-design-document.md)
     * [Software Development Life Cycle](miscelnea/software-development-life-cycle.md)
     * [Strategyzer](miscelnea/strategyzer.md)
@@ -344,8 +366,8 @@
 
 * [Recursos](recursos/README.md)
     * [Accesibilidad](recursos/accesibilidad/README.md)
-        * [Accesibilidad (a11y)](recursos/accesibilidad/accesibilidad-a11y.md)
-        * [Accesibilidad web](recursos/accesibilidad/accesibilidad-web.md)
+        * [Stark](recursos/accesibilidad/stark.md)
+        * [WCAG](recursos/accesibilidad/wcag.md)
 
     * [Artículos](recursos/artculos/README.md)
         * [Zhuo, Julie - The Agony and Ecstasy of Building with Data](recursos/artculos/zhuo-julie-the-agony-and-ecstasy-of-building-with-data.md)
@@ -398,9 +420,11 @@
         * [Screenshot 2022-01-02 at 20.47.33.png](recursos/media/screenshot-20220102-at-20.47.33.png)
         * [Screenshot 2022-01-07 at 13.34.37.png](recursos/media/screenshot-20220107-at-13.34.37.png)
 
+    * [Elementos de la experiencia del usuario (Elements of User Experience)](recursos/elementos-de-la-experiencia-del-usuario-elements-of-user-experience.md)
     * [checklist_revision_heuristica_metodo_sirius_v3.xlsx](recursos/checklistrevisionheuristicametodosiriusv3.xlsx)
 
 * [Roles](roles/README.md)
+    * [Principal Designer](roles/principal-designer.md)
     * [Roles](roles/roles.md)
 
 * [Sistemas de diseño](sistemas-de-diseo/README.md)
@@ -417,11 +441,6 @@
 * [.gitignore](.gitignore)
 * [.vault-stats 2](.vaultstats-2)
 * [.vault-stats 3](.vaultstats-3)
-* [8F04E803-4AD5-426A-A1B4-4D6340EEBC81.jpeg](8f04e8034ad5426aa1b44d6340eebc81.jpeg)
-* [A299D87C-74B5-417F-A6AE-3E1A719B27D3.png](a299d87c74b5417fa6ae3e1a719b27d3.png)
-* [Elementos de la experiencia del usuario (Elements of User Experience)](elementos-de-la-experiencia-del-usuario-elements-of-user-experience.md)
 * [LICENSE](license)
-* [Ley de Fitt](ley-de-fitt.md)
-* [Leyes de UX (Laws of UX)](leyes-de-ux-laws-of-ux.md)
-* [Principal Designer](principal-designer.md)
+* [Pasted image 20230105181519.png](pasted-image-20230105181519.png)
 * [README](readme.md)
