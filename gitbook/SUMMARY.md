@@ -38,8 +38,8 @@
         * [info](git/objects/info/README.md)
 
         * [pack](git/objects/pack/README.md)
-            * [pack-64ff608ac03999e0bff87f3ed4486f06e5b95d55.idx](git/objects/pack/pack64ff608ac03999e0bff87f3ed4486f06e5b95d55.idx)
-            * [pack-64ff608ac03999e0bff87f3ed4486f06e5b95d55.pack](git/objects/pack/pack64ff608ac03999e0bff87f3ed4486f06e5b95d55.pack)
+            * [pack-5c7e4fa8aa599a7cb08c776151e26f6739dab43a.idx](git/objects/pack/pack5c7e4fa8aa599a7cb08c776151e26f6739dab43a.idx)
+            * [pack-5c7e4fa8aa599a7cb08c776151e26f6739dab43a.pack](git/objects/pack/pack5c7e4fa8aa599a7cb08c776151e26f6739dab43a.pack)
 
 
     * [refs](git/refs/README.md)
@@ -71,6 +71,12 @@
         * [Media](00empieza-aqu/organizacin-del-repositorio/media/README.md)
             * [8F04E803-4AD5-426A-A1B4-4D6340EEBC81.jpeg](00empieza-aqu/organizacin-del-repositorio/media/8f04e8034ad5426aa1b44d6340eebc81.jpeg)
             * [A299D87C-74B5-417F-A6AE-3E1A719B27D3.png](00empieza-aqu/organizacin-del-repositorio/media/a299d87c74b5417fa6ae3e1a719b27d3.png)
+            * [Pasted image 20230105181519.png](00empieza-aqu/organizacin-del-repositorio/media/pasted-image-20230105181519.png)
+            * [Pasted image 20230116162914.png](00empieza-aqu/organizacin-del-repositorio/media/pasted-image-20230116162914.png)
+            * [Screenshot 2022-01-02 at 20.47.33.png](00empieza-aqu/organizacin-del-repositorio/media/screenshot-20220102-at-20.47.33.png)
+            * [Screenshot 2022-01-07 at 13.34.37.png](00empieza-aqu/organizacin-del-repositorio/media/screenshot-20220107-at-13.34.37.png)
+            * [Screenshot 2023-01-13 at 09.12.37.png](00empieza-aqu/organizacin-del-repositorio/media/screenshot-20230113-at-09.12.37.png)
+            * [Screenshot 2023-01-13 at 09.21.24.png](00empieza-aqu/organizacin-del-repositorio/media/screenshot-20230113-at-09.21.24.png)
 
         * [Gobierno](00empieza-aqu/organizacin-del-repositorio/gobierno.md)
         * [Guías](00empieza-aqu/organizacin-del-repositorio/guas.md)
@@ -84,6 +90,9 @@
     * [Accesibilidad (a11y)](accesibilidad-a11y/accesibilidad-a11y.md)
     * [Accesibilidad web](accesibilidad-a11y/accesibilidad-web.md)
     * [Auditoría de accesibilidad](accesibilidad-a11y/auditora-de-accesibilidad.md)
+
+* [Analítica y datos](analtica-y-datos/README.md)
+    * [Analítica y datos](analtica-y-datos/analtica-y-datos.md)
 
 * [Desarrollo para diseñadoras](desarrollo-para-diseadoras/README.md)
     * [Frameworks](desarrollo-para-diseadoras/frameworks/README.md)
@@ -148,14 +157,22 @@
     * [Diseño de futuros](diseo-de-estrategia/diseo-de-futuros.md)
     * [Estudio de competencia (Benchmarking)](diseo-de-estrategia/estudio-de-competencia-benchmarking.md)
     * [Los 5 por qué](diseo-de-estrategia/los-5-por-qu.md)
+    * [Proceso de diseño](diseo-de-estrategia/proceso-de-diseo.md)
     * [Usuarios extremos](diseo-de-estrategia/usuarios-extremos.md)
 
 * [Diseño de experiencia (UX y CX)](diseo-de-experiencia-ux-y-cx/README.md)
     * [Heurísticas](diseo-de-experiencia-ux-y-cx/heursticas/README.md)
+        * [Heurísticas](diseo-de-experiencia-ux-y-cx/heursticas/heursticas/README.md)
+            * [Amélie Boucher’s Ergonomic Criteria](diseo-de-experiencia-ux-y-cx/heursticas/heursticas/amlie-bouchers-ergonomic-criteria.md)
+            * [Arhippainen’s Ten User Experience Heuristics](diseo-de-experiencia-ux-y-cx/heursticas/heursticas/arhippainens-ten-user-experience-heuristics.md)
+            * [Bastien and Scapin’s Ergonomic Criteria for the Evaluation of Human-Computer Interfaces](diseo-de-experiencia-ux-y-cx/heursticas/heursticas/bastien-and-scapins-ergonomic-criteria-for-the-evaluation-of-humancomputer-interfaces.md)
+            * [Colombo and Pasch 10 Heuristics for an Optimal User Experience](diseo-de-experiencia-ux-y-cx/heursticas/heursticas/colombo-and-pasch-10-heuristics-for-an-optimal-user-experience.md)
+            * [Las 10 heurísticas de Nielsen](diseo-de-experiencia-ux-y-cx/heursticas/heursticas/las-10-heursticas-de-nielsen.md)
+            * [Reglas de oro de Shneiderman](diseo-de-experiencia-ux-y-cx/heursticas/heursticas/reglas-de-oro-de-shneiderman.md)
+            * [System Usability Scale (SUS)](diseo-de-experiencia-ux-y-cx/heursticas/heursticas/system-usability-scale-sus.md)
+
         * [Evaluación heurística](diseo-de-experiencia-ux-y-cx/heursticas/evaluacin-heurstica.md)
         * [Heurísticas](diseo-de-experiencia-ux-y-cx/heursticas/heursticas.md)
-        * [Las 10 heurísticas de Nielsen](diseo-de-experiencia-ux-y-cx/heursticas/las-10-heursticas-de-nielsen.md)
-        * [Reglas de oro de Shneiderman](diseo-de-experiencia-ux-y-cx/heursticas/reglas-de-oro-de-shneiderman.md)
 
     * [Optimización de la Tasa de Conversión (CRO)](diseo-de-experiencia-ux-y-cx/optimizacin-de-la-tasa-de-conversin-cro/README.md)
         * [Optimización de la Tasa de Conversión (CRO)](diseo-de-experiencia-ux-y-cx/optimizacin-de-la-tasa-de-conversin-cro/optimizacin-de-la-tasa-de-conversin-cro.md)
@@ -165,7 +182,6 @@
         * [Drill-in](diseo-de-experiencia-ux-y-cx/patrones/drillin.md)
         * [Patrones de UX](diseo-de-experiencia-ux-y-cx/patrones/patrones-de-ux.md)
 
-    * [Amélie Boucher’s Ergonomic Criteria](diseo-de-experiencia-ux-y-cx/amlie-bouchers-ergonomic-criteria.md)
     * [Disciplinas de UX](diseo-de-experiencia-ux-y-cx/disciplinas-de-ux.md)
     * [Diseño de experiencia (UX Design)](diseo-de-experiencia-ux-y-cx/diseo-de-experiencia-ux-design.md)
     * [Experiencia del cliente (Customer Experience o CX)](diseo-de-experiencia-ux-y-cx/experiencia-del-cliente-customer-experience-o-cx.md)
@@ -174,8 +190,17 @@
     * [Leyes de UX (Laws of UX)](diseo-de-experiencia-ux-y-cx/leyes-de-ux-laws-of-ux.md)
 
 * [Diseño de interacción (IxD)](diseo-de-interaccin-ixd/README.md)
-    * [Diseño de interacción (IxD)](diseo-de-interaccin-ixd/diseo-de-interaccin-ixd.md)
-    * [Interfaz](diseo-de-interaccin-ixd/interfaz.md)
+    * [Interfaz (UI)](diseo-de-interaccin-ixd/interfaz-ui/README.md)
+        * [GUI](diseo-de-interaccin-ixd/interfaz-ui/gui/README.md)
+            * [10-foot UI](diseo-de-interaccin-ixd/interfaz-ui/gui/10foot-ui.md)
+            * [GUI (graphical user interface o interfaz gráfica de usuario)](diseo-de-interaccin-ixd/interfaz-ui/gui/gui-graphical-user-interface-o-interfaz-grfica-de-usuario.md)
+            * [Modality](diseo-de-interaccin-ixd/interfaz-ui/gui/modality.md)
+
+        * [Interfaz háptica](diseo-de-interaccin-ixd/interfaz-ui/interfaz-hptica.md)
+        * [Interfaz](diseo-de-interaccin-ixd/interfaz-ui/interfaz.md)
+
+    * [Diseño de interacción o Interaction Design (IxD)](diseo-de-interaccin-ixd/diseo-de-interaccin-o-interaction-design-ixd.md)
+    * [Prototipado](diseo-de-interaccin-ixd/prototipado.md)
     * [VUI (Voice User Interface o Interfaz de Usuario de Voz)](diseo-de-interaccin-ixd/vui-voice-user-interface-o-interfaz-de-usuario-de-voz.md)
 
 * [Diseño de juegos](diseo-de-juegos/README.md)
@@ -191,10 +216,6 @@
         * [Color blindness ()](diseo-visual/color/color-blindness-.md)
         * [Psicología del color](diseo-visual/color/psicologa-del-color.md)
         * [Teoría del color](diseo-visual/color/teora-del-color.md)
-
-    * [GUI](diseo-visual/gui/README.md)
-        * [10-foot UI](diseo-visual/gui/10foot-ui.md)
-        * [GUI (graphical user interface o interfaz gráfica de usuario)](diseo-visual/gui/gui-graphical-user-interface-o-interfaz-grfica-de-usuario.md)
 
     * [Iconografía](diseo-visual/iconografa/README.md)
         * [A complete guide to iconography](diseo-visual/iconografa/a-complete-guide-to-iconography.md)
@@ -228,6 +249,7 @@
     * [Alineamiento óptico (eyeballing, optical alignment)](diseo-visual/alineamiento-ptico-eyeballing-optical-alignment.md)
     * [Calculadora de proporción áurea (golden ratio calculator)](diseo-visual/calculadora-de-proporcin-urea-golden-ratio-calculator.md)
     * [Calculadora de relación de aspecto (aspect ratio calculator)](diseo-visual/calculadora-de-relacin-de-aspecto-aspect-ratio-calculator.md)
+    * [Diseño visual](diseo-visual/diseo-visual.md)
     * [Proporción áurea (Golden ratio)](diseo-visual/proporcin-urea-golden-ratio.md)
     * [Relación de aspecto (aspect ratio)](diseo-visual/relacin-de-aspecto-aspect-ratio.md)
 
@@ -298,6 +320,7 @@
         * [Moodboard](herramientas/herramientas-de-mapeado/moodboard.md)
         * [Viaje del usuario (User Journey)](herramientas/herramientas-de-mapeado/viaje-del-usuario-user-journey.md)
 
+    * [Herramientas de prototipado](herramientas/herramientas-de-prototipado.md)
 
 * [Investigación para el diseño](investigacin-para-el-diseo/README.md)
     * [Tipos de investigación](investigacin-para-el-diseo/tipos-de-investigacin/README.md)
@@ -308,8 +331,11 @@
         * [Investigación evaluativa](investigacin-para-el-diseo/tipos-de-investigacin/investigacin-evaluativa.md)
         * [Investigación generativa](investigacin-para-el-diseo/tipos-de-investigacin/investigacin-generativa.md)
 
+    * [Traducir](investigacin-para-el-diseo/traducir/README.md)
+        * [A Design Research Framework](investigacin-para-el-diseo/traducir/a-design-research-framework.md)
+        * [How to Establish a UX Research Process in 7 Simple Steps](investigacin-para-el-diseo/traducir/how-to-establish-a-ux-research-process-in-7-simple-steps.md)
+
     * [Técnicas de investigación](investigacin-para-el-diseo/tcnicas-de-investigacin/README.md)
-        * [00_Técnicas de investigación](investigacin-para-el-diseo/tcnicas-de-investigacin/00tcnicas-de-investigacin.md)
         * [Card Sorting](investigacin-para-el-diseo/tcnicas-de-investigacin/card-sorting.md)
         * [Cognitive walkthroughs](investigacin-para-el-diseo/tcnicas-de-investigacin/cognitive-walkthroughs.md)
         * [Encuestas](investigacin-para-el-diseo/tcnicas-de-investigacin/encuestas.md)
@@ -319,32 +345,36 @@
         * [Focus group](investigacin-para-el-diseo/tcnicas-de-investigacin/focus-group.md)
         * [Inspección de usabilidad](investigacin-para-el-diseo/tcnicas-de-investigacin/inspeccin-de-usabilidad.md)
         * [NPS (Net Promoter Score)](investigacin-para-el-diseo/tcnicas-de-investigacin/nps-net-promoter-score.md)
-        * [Personas](investigacin-para-el-diseo/tcnicas-de-investigacin/personas.md)
+        * [Persona](investigacin-para-el-diseo/tcnicas-de-investigacin/persona.md)
+        * [Placeona](investigacin-para-el-diseo/tcnicas-de-investigacin/placeona.md)
         * [Satisfacción del cliente (customer satisfaction)](investigacin-para-el-diseo/tcnicas-de-investigacin/satisfaccin-del-cliente-customer-satisfaction.md)
         * [Sirius](investigacin-para-el-diseo/tcnicas-de-investigacin/sirius.md)
         * [Test A-B](investigacin-para-el-diseo/tcnicas-de-investigacin/test-ab.md)
+        * [Test de usabilidad remoto](investigacin-para-el-diseo/tcnicas-de-investigacin/test-de-usabilidad-remoto.md)
+        * [Test de usabilidad](investigacin-para-el-diseo/tcnicas-de-investigacin/test-de-usabilidad.md)
+        * [Tree test](investigacin-para-el-diseo/tcnicas-de-investigacin/tree-test.md)
+        * [Técnicas de investigación](investigacin-para-el-diseo/tcnicas-de-investigacin/tcnicas-de-investigacin.md)
 
-    * [00 - Investigacion para el diseño](investigacin-para-el-diseo/00-investigacion-para-el-diseo.md)
-    * [A Design Research Framework](investigacin-para-el-diseo/a-design-research-framework.md)
-    * [How to Establish a UX Research Process in 7 Simple Steps](investigacin-para-el-diseo/how-to-establish-a-ux-research-process-in-7-simple-steps.md)
+    * [Investigacion para el diseño](investigacin-para-el-diseo/investigacion-para-el-diseo.md)
     * [Triangulación de datos](investigacin-para-el-diseo/triangulacin-de-datos.md)
 
 * [Metodologías de trabajo](metodologas-de-trabajo/README.md)
     * [Agilismo](metodologas-de-trabajo/agilismo/README.md)
         * [Agilismo (agile)](metodologas-de-trabajo/agilismo/agilismo-agile.md)
+        * [Historia de usuario (User Story)](metodologas-de-trabajo/agilismo/historia-de-usuario-user-story.md)
         * [Inyectar UX en el SDLC](metodologas-de-trabajo/agilismo/inyectar-ux-en-el-sdlc.md)
         * [User Story Map](metodologas-de-trabajo/agilismo/user-story-map.md)
-        * [User Story](metodologas-de-trabajo/agilismo/user-story.md)
 
     * [Desarrollo en cascada (waterfall)](metodologas-de-trabajo/desarrollo-en-cascada-waterfall.md)
     * [Design Sprint](metodologas-de-trabajo/design-sprint.md)
-    * [Design Thinking](metodologas-de-trabajo/design-thinking.md)
     * [Jobs To Be Done (JTBD)](metodologas-de-trabajo/jobs-to-be-done-jtbd.md)
+    * [Pensamiento de diseño (Design Thinking)](metodologas-de-trabajo/pensamiento-de-diseo-design-thinking.md)
     * [Scrum](metodologas-de-trabajo/scrum.md)
 
 * [Miscelánea](miscelnea/README.md)
     * [Cómo lee la gente (en la web)](miscelnea/cmo-lee-la-gente-en-la-web.md)
     * [Densidad de píxeles](miscelnea/densidad-de-pxeles.md)
+    * [Diseño centrado en los humanos o diseño centrado en los usuarios](miscelnea/diseo-centrado-en-los-humanos-o-diseo-centrado-en-los-usuarios.md)
     * [Dónde obtener recursos](miscelnea/dnde-obtener-recursos.md)
     * [Gestalt](miscelnea/gestalt.md)
     * [Imagen](miscelnea/imagen.md)
@@ -370,6 +400,7 @@
         * [WCAG](recursos/accesibilidad/wcag.md)
 
     * [Artículos](recursos/artculos/README.md)
+        * [Password creation](recursos/artculos/password-creation.md)
         * [Zhuo, Julie - The Agony and Ecstasy of Building with Data](recursos/artculos/zhuo-julie-the-agony-and-ecstasy-of-building-with-data.md)
 
     * [Biblioteca](recursos/biblioteca/README.md)
@@ -389,6 +420,8 @@
         * [Brand](recursos/glosario/brand.md)
         * [CDN](recursos/glosario/cdn.md)
         * [CMS](recursos/glosario/cms.md)
+        * [Componente](recursos/glosario/componente.md)
+        * [Cuantitativo](recursos/glosario/cuantitativo.md)
         * [Dato](recursos/glosario/dato.md)
         * [HCI](recursos/glosario/hci.md)
         * [Heurística](recursos/glosario/heurstica.md)
@@ -417,8 +450,6 @@
         * [10.1.1.109.1081.pdf](recursos/media/10.1.1.109.1081.pdf)
         * [Dimensions of UX.pdf](recursos/media/dimensions-of-ux.pdf)
         * [Dimensions_of_User_Experience_-_from_the_Product_D.pdf](recursos/media/dimensionsofuserexperiencefromtheproductd.pdf)
-        * [Screenshot 2022-01-02 at 20.47.33.png](recursos/media/screenshot-20220102-at-20.47.33.png)
-        * [Screenshot 2022-01-07 at 13.34.37.png](recursos/media/screenshot-20220107-at-13.34.37.png)
 
     * [Elementos de la experiencia del usuario (Elements of User Experience)](recursos/elementos-de-la-experiencia-del-usuario-elements-of-user-experience.md)
     * [checklist_revision_heuristica_metodo_sirius_v3.xlsx](recursos/checklistrevisionheuristicametodosiriusv3.xlsx)
@@ -429,6 +460,10 @@
 
 * [Sistemas de diseño](sistemas-de-diseo/README.md)
     * [Componentes](sistemas-de-diseo/componentes/README.md)
+        * [Campo de texto o input](sistemas-de-diseo/componentes/campo-de-texto-o-input.md)
+        * [Pop-up](sistemas-de-diseo/componentes/popup.md)
+        * [Popover](sistemas-de-diseo/componentes/popover.md)
+        * [Popper](sistemas-de-diseo/componentes/popper.md)
         * [Tablas](sistemas-de-diseo/componentes/tablas.md)
 
     * [Herramientas](sistemas-de-diseo/herramientas/README.md)
@@ -442,5 +477,4 @@
 * [.vault-stats 2](.vaultstats-2)
 * [.vault-stats 3](.vaultstats-3)
 * [LICENSE](license)
-* [Pasted image 20230105181519.png](pasted-image-20230105181519.png)
 * [README](readme.md)
