@@ -1,0 +1,2 @@
+# applypatch-msg.sample
+

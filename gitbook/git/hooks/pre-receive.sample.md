@@ -1,0 +1,2 @@
+# pre-receive.sample
+

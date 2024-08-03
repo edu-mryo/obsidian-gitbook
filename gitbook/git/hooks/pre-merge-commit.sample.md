@@ -1,0 +1,2 @@
+# pre-merge-commit.sample
+
